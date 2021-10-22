@@ -1,0 +1,170 @@
+{
+    // "python.linting.pycodestyleEnabled": true,
+    // "python.formatting.provider": "autopep8",
+    // "python.formatting.autopep8Args": [
+    //     "max-line-length = 100"
+    // ],
+    // "emmet.includeLanguages": {
+    //     "html": "html",
+    //     "javascript": "javascriptreact"
+    // },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000,
+    // "terminal.external.linuxExec": "iterm",
+    // "terminal.external.osxExec": "iTerm.app",
+    // "terminal.integrated.shell.osx": "zsh",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 14,
+    // "editor.wordWrap": "on",
+    // "editor.formatOnSave": true,
+    // "editor.formatOnPaste": true,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    // "explorer.sortOrder": "type",
+    // // "editor.minimap.enabled": false,
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "numso.prettier-standard-vscode"
+    // },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
+    "files.trimFinalNewlines": true,
+    // "window.zoomLevel": 0,
+    // "javascript.updateImportsOnFileMove.enabled": "always",
+    // "[dockerfile]": {
+    //     "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    // },
+    // "editor.renderWhitespace": "all",
+    // "extensions.ignoreRecommendations": false,
+    // "[mongo]": {
+    //     "editor.defaultFormatter": "HookyQR.beautify"
+    // },
+    // "[sass]": {
+    //     "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    // },
+    "editor.tabSize": 4,
+    "cSpell.language": "en,pt,pt_BR",
+    "cSpell.userWords": [
+        "Adquirência",
+        "Autocred",
+        "Cielo",
+        "Irwing",
+        "Izoton",
+        "Kabata",
+        "Misko",
+        "Mundi",
+        "Mundipagg",
+        "Opstimização",
+        "Oracy",
+        "Pagarme",
+        "Retentativa",
+        "Retentativas",
+        "Riscops",
+        "Salla",
+        "Tesseract",
+        "VANV",
+        "Yukio",
+        "chargeback",
+        "clusterizar",
+        "dataops",
+        "datefmt",
+        "dotenv",
+        "payables",
+        "psycopg",
+        "pytz",
+        "stoneco",
+        "whatsapp"
+    ],
+    "todo-tree.highlights.enabled": true,
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "python.languageServer": "Pylance",
+    "jupyter.alwaysTrustNotebooks": true,
+    "editor.largeFileOptimizations": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "terminal.integrated.shell.osx": "zsh",
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "[sql]": {
+        "editor.defaultFormatter": "cymonk.sql-formatter"
+    },
+    "workbench.colorTheme": "Shades of Purple",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.formatOnSave": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    // "editor.suggestSelection": "first",
+    // "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // // "python.jediEnabled": false,
+    // "terminal.integrated.copyOnSelection": true,
+    // "terminal.integrated.cursorBlinking": true,
+    // "terminal.integrated.cursorStyle": "underline",
+    // "todo-tree.tree.showScanModeButton": false,
+    // "python.defaultInterpreterPath": "[/home/martoso/anaconda3/bin/python]",
+    // "remote.SSH.showLoginTerminal": true,
+    // // "python.languageServer": "Jedi",
+    // "[typescript]": {
+    //     "editor.formatOnPaste": true,
+    //     "editor.formatOnSave": true
+    // },
+    // "typescript.updateImportsOnFileMove.enabled": "always",
+    // "diffEditor.ignoreTrimWhitespace": false,
+    // "todo-tree.highlights.defaultHighlight": {
+    //     "icon": "alert",
+    //     "type": "text",
+    //     "foreground": "red",
+    //     "background": "white",
+    //     "opacity": 50,
+    //     "iconColour": "blue"
+    // },
+    // "todo-tree.highlights.customHighlight": {
+    //     "FIXME": {
+    //         "foreground": "yellow",
+    //         "iconColour": "yellow",
+    //         "gutterIcon": true
+    //     }
+    // },
+    // "todo-tree.general.tagGroups": {
+    //     "FIXME": [
+    //         "CHANGEME",
+    //         "CHANGEIT",
+    //         "CHANGE",
+    //     ],
+    //     "icon": "breaker"
+    // },
+    // "explorer.confirmDelete": false,
+    // "bookmarks.navigateThroughAllFiles": true,
+    // "bookmarks.saveBookmarksInProject": true,
+    // "python.autoUpdateLanguageServer": true,
+    // "python.languageServer": "Pylance",
+    // "python.pythonPath": "/home/martoso/anaconda3/bin/python3",
+    // "python.sortImports.args": [
+    //     "-rc",
+    //     "-sp isort.cfg"
+    // ],
+    // "python.formatting.provider": "black",
+    // "python.formatting.blackArgs": [
+    //     "--line-length=100"
+    // ],
+    // "[python]": {
+    //     "editor.codeActionsOnSave": {
+    //         "source.organizeImports": true
+    //     }
+    // }
+}
